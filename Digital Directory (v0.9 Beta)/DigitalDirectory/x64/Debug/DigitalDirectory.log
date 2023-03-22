@@ -1,0 +1,3 @@
+﻿  DigitalDirectory.cpp
+C:\Users\Екатерина\Documents\Visual Studio Projects\DigitalDirectory\DigitalDirectory\DigitalDirectory.cpp(106,8): warning C4101: subOption: неиспользованная локальная переменная
+  DigitalDirectory.vcxproj -> C:\Users\Екатерина\Documents\Visual Studio Projects\DigitalDirectory\x64\Debug\DigitalDirectory.exe
